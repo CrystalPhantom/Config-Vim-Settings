@@ -5,3 +5,21 @@
 ### First you need to understand what vim is :point_up:
  
 ##### Vim is a free text editor based on the older vi. Now it is a powerful text editor with complete freedom of customization and automation made possible by extensions and add-ons. Vim's user interface can run in pure text mode.
+
+
+# Table if Contents :point_down:
+
+* [Installation](#installation)
+
+
+
+
+
+# Installation
+We will install vim on linux
+
+```vim 
+$ sudo dnf update
+$ sudo dnf install vim
+```
+
