@@ -2,7 +2,7 @@
 
 # Config Vim and basic settings :point_down:
 
-### First you need to understand what vim is :point_up:
+___### First you need to understand what vim is___
  
 ##### Vim is a free text editor based on the older vi. Now it is a powerful text editor with complete freedom of customization and automation made possible by extensions and add-ons. Vim's user interface can run in pure text mode.
 
@@ -10,8 +10,7 @@
 # Table if Contents :point_down:
 
 * [Installation](#installation)
-
-
+* [Сommands](#Сommands)
 
 
 
@@ -38,7 +37,7 @@ $ vim
 We have checked and Vim version is currently 9.0
 
 
-# Сommands in Vim terminals
+# Сommands
 ```
 i - перейти в режим редактирования 
 ```
