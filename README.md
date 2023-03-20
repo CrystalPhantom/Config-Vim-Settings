@@ -8,9 +8,9 @@ ___### First you need to understand what vim is___
 
 
 # Table if Contents :point_down:
-* [Header](#Config_Vim_and_basic_settings)
 * [Installation](#installation)
 * [Сommands](#Сommands)
+* 
 
 
 
