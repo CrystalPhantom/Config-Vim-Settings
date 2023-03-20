@@ -16,12 +16,18 @@
 
 
 # Installation
-We will install vim on linux
+We will install vim on linux<br>
+Installed on Fedora Linux!!!
 
 ```vim 
 $ sudo dnf update
 $ sudo dnf install vim
 ```
+
+Installing vim but already on macos!<br> 
+https://macvim.org/
+
+
 in order to find out the version of vim, go to vim itself
 
 ```vim 
