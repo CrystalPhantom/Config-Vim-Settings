@@ -1,4 +1,4 @@
-![](https://github.com/CrystalPhantom/Config-Vim-Settings/blob/397928c1b1adcdbb3a97d4e18cdce0d547c8b9df/assets/Frame%201%20(3).png)
+![](https://github.com/CrystalPhantom/Config-Vim-Settings/blob/93832b0cba38c37e8c4c7cb3f3588f82192102a6/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-20%2022-51-03.png)
 
 # :pushpin: Config Vim and basic settings :point_down:
 
