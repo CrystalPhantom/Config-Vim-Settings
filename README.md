@@ -36,7 +36,7 @@ $ vim
 
 We have checked and Vim version is currently 9.0
 
-#Commands
+# Commands
 
 Here are all the key commands<br>
 <a href="https://github.com/CrystalPhantom/Config-Vim-Settings/blob/28412237a8a00ab2b7bba4625e094cd980f5ad89/Commands">CLICK</a>
